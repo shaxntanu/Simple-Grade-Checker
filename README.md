@@ -1,2 +1,11 @@
-# Simple-Grade-Checker
-This simple C program reads a student's marks as input and outputs the corresponding grade based on standard grading criteria. It uses conditional statements (if-else) to categorize marks into grades from A to E and indicates failure for marks below 50. The program also handles invalid inputs gracefully.
+# Grade Checker in C
+
+A simple C program that reads a student's marks and prints the corresponding grade according to the entered score. This program uses conditional statements to assign grades from A to E and displays a failure message for marks below 50. It also validates input to handle invalid marks outside the 0-100 range.
+
+## Features
+
+- Reads marks input from the user
+- Assigns grades based on score ranges (A, B, C, D, E)
+- Prints "FAIL" for marks below 50
+- Handles invalid input with an error message
+- Beginner-friendly and easy to understand
