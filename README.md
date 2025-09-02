@@ -1,6 +1,6 @@
 # Grade Checker in C
 
-A simple C program that reads a student's marks and prints the corresponding grade according to the entered score. This program uses conditional statements to assign grades from A to E and displays a failure message for marks below 50. It also validates input to handle invalid marks outside the 0-100 range.
+A simple C program that reads a student's marks and prints the corresponding grade according to the entered score. This program uses conditional statements to assign grades from A to E and displays a failure message for marks below 50. It also validates input to handle invalid marks outside the 0-100 range.\n
 the table below shows the grading system:
 | 90 - 100 | A   |
 | -------- | --- |
