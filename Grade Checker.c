@@ -26,6 +26,7 @@ int main() {
     else {
         printf("invalid input");
     }
-    printf("Thankyou for using the GRADE CHECKER\nMade by Shantanu");
+    printf("Thank You for using the GRADE CHECKER\nMade by Shantanu");
     return 0;
 }
+
